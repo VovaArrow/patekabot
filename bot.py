@@ -6,7 +6,7 @@ from app.handlers import router
 from app.database.models import async_main
 
 
-TOKEN = '7180724078:AAGB2I96dD7hYais5yx6dmwbQ3OnoHlsNe8'
+TOKEN = 'TOKEN'
 
 async def main():
     await async_main()
